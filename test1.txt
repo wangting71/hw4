@@ -1,10 +1,12 @@
 part1:
+<<<<<<< HEAD
 111111111111-ting
+=======
+>>>>>>> 32b6eb8022ed576eb8bc782e31f163a1655cb3d2
 
 part2:
 222222222222-Lu2
 
 part3:
 wangting
-
 
