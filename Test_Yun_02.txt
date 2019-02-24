@@ -1,0 +1,13 @@
+Test in yun02's Branch
+11111
+22222
+33333
+
+Change #1 from repository 
+Testing: Change from repository first, conflict in local.
+
+Change #2 from local branch 
+Testing: Puch local branch to repository
+
+Change #3 from repository
+Testing: Merge Testing (Merge from yun02)
