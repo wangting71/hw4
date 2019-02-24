@@ -5,3 +5,6 @@ Test in yun's Branch
 
 Change #1 from repository 
 Testing: Change from repository first, conflict in local.
+
+Change #2 from local branch 
+Testing: Puch local branch to repository
