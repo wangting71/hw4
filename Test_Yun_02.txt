@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Test in yun's Branch
+=======
+Test in yun02's Branch
+>>>>>>> yun02
 11111
 22222
 33333
@@ -10,4 +14,4 @@ Change #2 from local branch
 Testing: Puch local branch to repository
 
 Change #3 from repository
-Testing: Merge with conflicts
+Testing: Merge Testing (Merge from yun02)
