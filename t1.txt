@@ -2,7 +2,7 @@ part1
 Lu
 
 part2
-0000000
+abcdefg
 
 part3
 ting
