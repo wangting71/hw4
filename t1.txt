@@ -2,11 +2,7 @@ part1
 Lu
 
 part2
-<<<<<<< HEAD
 abcdefg
-=======
-0000000-Lu
->>>>>>> 343d888c61f7315afe01b6f207a74405f90892be
 
 part3
 ting
