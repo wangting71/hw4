@@ -2,7 +2,7 @@ part1
 Lu
 
 part2
-0000000
+111111
 
 part3
 ting
